@@ -1,0 +1,7 @@
+librosa
+praat-parselmouth
+numpy
+pandas
+torch
+torchaudio
+scikit-learn
